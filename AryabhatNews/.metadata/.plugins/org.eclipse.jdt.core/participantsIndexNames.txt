@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+D:\Study\FullStackProject\AryabhatNews\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1402690597.index
+\Democratic\src\main\resources
